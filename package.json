@@ -20,7 +20,7 @@
     "lint": "eslint --ext .js,.ts src"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "pug": "3.0.0",
     "qrcode": "1.4.4"
   },
